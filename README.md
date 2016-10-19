@@ -1,4 +1,6 @@
 # twitchbot
-this is a bot I made to ban wipz however it was my first time using node.js and shit's wonky atm
+So this was suppossed to auto-ban wipztv whenever he enters a chat room, but it seems to be banning him whenever anyone enters chat including other bots, nightbot, moobot, etc. 
 
-really just made this to start learning node.js however the bot's sole feature isn't working as intended
+Another feature I would like to add is the bot declaring whenever wipz is banned, but I'm pretty sure I can make that happen pretty easily once my other issue is solved 
+
+
