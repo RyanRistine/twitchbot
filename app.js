@@ -18,7 +18,7 @@ var options = {
 var client = new tmi.client(options);
 client.connect();
 
-client.on('join', function (channel,username,self) {
+client.on('join', function (channel, username, self) {
     client.ban ("supermansbrother", "WipzTV", "Wipz in 2016 LUL")
 });
 
