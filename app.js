@@ -10,7 +10,7 @@ var options = {
     },
     identity: {
       username: "banwipzbot",
-      password: "oauthcodehere"
+      password: "oauth:3mxorxxaxyrp4xnt61woo2gnga5qh5"
     },
     channels: ["supermansbrother"]
 };
